@@ -1,0 +1,2 @@
+getAnimal:
+SELECT * FROM animal;
